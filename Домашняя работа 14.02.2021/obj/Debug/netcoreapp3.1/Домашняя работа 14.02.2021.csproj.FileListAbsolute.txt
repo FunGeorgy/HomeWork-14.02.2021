@@ -1,0 +1,15 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.deps.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.runtimeconfig.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.runtimeconfig.dev.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\bin\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.csprojAssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя_работа_14._02._2021.Form1.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.csproj.GenerateResource.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.AssemblyInfoInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.AssemblyInfo.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\Домашняя работа 14.02.2021\Домашняя работа 14.02.2021\obj\Debug\netcoreapp3.1\Домашняя работа 14.02.2021.genruntimeconfig.cache
