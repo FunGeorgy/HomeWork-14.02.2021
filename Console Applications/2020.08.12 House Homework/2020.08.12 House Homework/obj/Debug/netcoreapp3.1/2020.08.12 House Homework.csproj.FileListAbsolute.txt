@@ -1,0 +1,13 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.deps.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.runtimeconfig.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.runtimeconfig.dev.json
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\bin\Debug\netcoreapp3.1\2020.08.12 House Homework.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.csprojAssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.AssemblyInfoInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.AssemblyInfo.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.12 House Homework\2020.08.12 House Homework\obj\Debug\netcoreapp3.1\2020.08.12 House Homework.genruntimeconfig.cache

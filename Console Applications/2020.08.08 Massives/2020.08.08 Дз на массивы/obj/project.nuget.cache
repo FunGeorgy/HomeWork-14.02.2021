@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3szxEQQhk4fB9YRL1+3qMejvhfiv036E3fQuaJ/WJUPgwYREu96xG31i3zTH9DDlZyl2suGn/2RQiBrqGI2rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Проекты\\2020.08.08 Дз на массивы\\2020.08.08 Дз на массивы\\2020.08.08 Дз на массивы.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thesu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\thesu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\thesu\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

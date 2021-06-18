@@ -1,0 +1,13 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.deps.json
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.runtimeconfig.json
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.runtimeconfig.dev.json
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\bin\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.csprojAssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.AssemblyInfoInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.AssemblyInfo.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.dll
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.genruntimeconfig.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\2020.08.08 Дз на массивы\2020.08.08 Дз на массивы\obj\Debug\netcoreapp3.1\2020.08.08 Дз на массивы.csproj.CoreCompileInputs.cache

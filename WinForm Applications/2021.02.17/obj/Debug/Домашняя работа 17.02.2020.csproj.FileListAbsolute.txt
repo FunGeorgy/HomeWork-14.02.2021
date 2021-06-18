@@ -1,0 +1,10 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\bin\Debug\Домашняя работа 17.02.2020.exe.config
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\bin\Debug\Домашняя работа 17.02.2020.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\bin\Debug\Домашняя работа 17.02.2020.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя работа 17.02.2020.csprojAssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя_работа_17._02._2020.Form1.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя_работа_17._02._2020.Properties.Resources.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя работа 17.02.2020.csproj.GenerateResource.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя работа 17.02.2020.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя работа 17.02.2020.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Проекты\Домашняя работа 17.02.2020\obj\Debug\Домашняя работа 17.02.2020.pdb

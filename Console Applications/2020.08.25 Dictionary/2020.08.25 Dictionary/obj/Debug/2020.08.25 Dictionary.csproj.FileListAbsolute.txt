@@ -1,0 +1,11 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\bin\Debug\2020.08.25 Dictionary.exe.config
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\bin\Debug\2020.08.25 Dictionary.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\bin\Debug\2020.08.25 Dictionary.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\2020.08.25 Dictionary.csprojAssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\_2020._08._25_Dictionary.AddBook.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\_2020._08._25_Dictionary.Form1.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\_2020._08._25_Dictionary.Properties.Resources.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\2020.08.25 Dictionary.csproj.GenerateResource.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\2020.08.25 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\2020.08.25 Dictionary.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\2020.08.25 Dictionary\2020.08.25 Dictionary\obj\Debug\2020.08.25 Dictionary.pdb
