@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\2021.06.04",
-    "\\2021.06.04\\Homework",
-    "\\2021.06.04\\Homework\\Settings Game",
-    "\\2021.06.04\\Homework\\XMAL Form",
-    "\\2021.06.08"
+    "\\WPF Applications",
+    "\\WPF Applications\\2021.06.08",
+    "\\WPF Applications\\2021.06.08\\WindowDate",
+    "\\WPF Applications\\2021.06.08\\WindowDate\\WindowWithDate",
+    "\\WPF Applications\\2021.06.08\\WindowDate\\WindowWithDate\\WindowWithDate"
   ],
-  "SelectedNode": "\\2021.06.04\\Homework\\XMAL Form.sln",
+  "SelectedNode": "\\WPF Applications\\2021.06.08\\WindowDate\\WindowWithDate\\WindowWithDate\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

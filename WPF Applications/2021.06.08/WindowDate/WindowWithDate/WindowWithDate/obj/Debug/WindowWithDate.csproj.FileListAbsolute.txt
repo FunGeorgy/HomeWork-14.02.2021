@@ -1,0 +1,15 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\bin\Debug\WindowWithDate.exe.config
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\bin\Debug\WindowWithDate.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\bin\Debug\WindowWithDate.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.csproj.AssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\MainWindow.g.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\App.g.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate_MarkupCompile.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate_MarkupCompile.lref
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\MainWindow.baml
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.g.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.Properties.Resources.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.csproj.GenerateResource.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\WPF Applications\2021.06.08\WindowDate\WindowWithDate\WindowWithDate\obj\Debug\WindowWithDate.pdb

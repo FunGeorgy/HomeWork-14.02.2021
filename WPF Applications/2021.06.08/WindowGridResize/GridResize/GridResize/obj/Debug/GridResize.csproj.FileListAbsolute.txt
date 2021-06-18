@@ -1,0 +1,15 @@
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\bin\Debug\GridResize.exe.config
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\bin\Debug\GridResize.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\bin\Debug\GridResize.pdb
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.csproj.AssemblyReference.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\MainWindow.g.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\App.g.cs
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize_MarkupCompile.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize_MarkupCompile.lref
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\MainWindow.baml
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.g.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.Properties.Resources.resources
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.csproj.GenerateResource.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.csproj.CoreCompileInputs.cache
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.exe
+C:\Users\thesu\OneDrive\Личное\Программы\Учеба\C#\C# Homeworks\8.06.2021\WindowGridResize\GridResize\GridResize\obj\Debug\GridResize.pdb
