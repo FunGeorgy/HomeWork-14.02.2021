@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj": {}
+    "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\C# Homeworks\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj": {
+    "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\C# Homeworks\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj",
+        "projectUniqueName": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\C# Homeworks\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj",
         "projectName": "Домашняя работа 14.02.2021",
-        "projectPath": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj",
+        "projectPath": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\C# Homeworks\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021.csproj",
         "packagesPath": "C:\\Users\\thesu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\Домашняя работа 14.02.2021\\Домашняя работа 14.02.2021\\obj\\",
+        "outputPath": "C:\\Users\\thesu\\OneDrive\\Личное\\Программы\\Учеба\\C#\\C# Homeworks\\Домашняя работа 14.02.2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thesu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашняя работа 14.02.2021", "Домашняя работа 14.02.2021\Домашняя работа 14.02.2021.csproj", "{DE2ED3F4-113D-4B26-9BE4-510431BC8B67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашняя работа 14.02.2021", "Домашняя работа 14.02.2021\Домашняя работа 14.02.2021.csproj", "{DE2ED3F4-113D-4B26-9BE4-510431BC8B67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
